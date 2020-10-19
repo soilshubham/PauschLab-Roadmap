@@ -15,7 +15,7 @@ General overview of game development [Here](https://www.geeksforgeeks.org/how-to
 - [Get started with Unreal](https://www.youtube.com/user/VirtusEdu)
 
 
-<hr>
+<br>
 
 # UI/UX Roadmap
 
@@ -56,3 +56,14 @@ General overview of game development [Here](https://www.geeksforgeeks.org/how-to
 - [unDraw](https://undraw.co/)
 - [Unsplash](https://unsplash.com)
 - [UIFaces](https://uifaces.co/)
+
+**Some Useful Advice:** Try to explore all the options available to you as I've told before UI/UX alone wont take you further. For example if you think you are good at math try to learn Machine Learning [Here's the Roadmap of McCarthy Lab](https://github.com/NextTechLabAP/McCarthy-Lab-Roadmap)
+
+**IMPORTANT:** Make sure you upload all your work to github. Github is a must for the lab.
+#### Learn Github
+- [Git](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) - Introduction
+- [Github Desktop](https://desktop.github.com/) - Software
+
+<br>
+
+#### Feel free to make Pull Requests stating why that particular resource should be added.
