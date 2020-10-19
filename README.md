@@ -1,5 +1,5 @@
 # PauschLab: Roadmap
-> A combined roadmap for the associates at Pausch Lab @[Next Tech Lab](https://nextech.io/home)
+A combined roadmap for the associates at Pausch Lab @[Next Tech Lab](https://nextech.io/home)
 # Game Development Roadmap
 General overview of game development [Here](https://www.geeksforgeeks.org/how-to-get-started-with-game-development)
 ## Unity
